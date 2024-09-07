@@ -10,7 +10,7 @@ Este protótipo foi elaborado para fornecer um norte sobre como começar a const
 
 Você pode acessar o protótipo [aqui](https://programandoviagensprototipo.vercel.app). <br><br>
 
-Você pode acessar o projeto final [aqui](https://programandoviagens.vercel.app).
+Você pode acessar o projeto final [aqui](https://github.com/raphaelsantos141/ProgramandoViagens).
 
 
 ## Tecnologias Utilizadas
