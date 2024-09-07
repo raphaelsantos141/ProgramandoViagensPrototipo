@@ -19,9 +19,6 @@ Você pode acessar o projeto final [aqui](https://github.com/raphaelsantos141/Pr
 - ![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css3&logoColor=white)
 - ![SCSS](https://img.shields.io/badge/SCSS-CC6699?style=flat&logo=sass&logoColor=white)
 - ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1C?style=flat&logo=javascript&logoColor=black)
-- ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
-- ![phpMyAdmin](https://img.shields.io/badge/phpMyAdmin-6C78C5?style=flat&logo=phpmyadmin&logoColor=white)
-- ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
 
 ## Objetivo
 
