@@ -8,7 +8,8 @@ Este protótipo foi elaborado para fornecer um norte sobre como começar a const
 
 ## Link do Protótipo
 
-Você pode acessar o protótipo [aqui](https://programandoviagensprototipo.vercel.app). <br>
+Você pode acessar o protótipo [aqui](https://programandoviagensprototipo.vercel.app). <br><br>
+
 Você pode acessar o projeto final [aqui](https://programandoviagens.vercel.app).
 
 
